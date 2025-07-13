@@ -1,0 +1,28 @@
+.header {
+  color: #ffff;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-inline: 80px;
+  z-index: 10;
+  position: relative;
+  top: 20px;
+  margin-bottom: 1350px;
+}
+
+.logo {
+  font-size: 35px;
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+.account {
+  font-size: 20px;
+}
