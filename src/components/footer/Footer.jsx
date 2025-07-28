@@ -9,7 +9,7 @@ export const Footer = () => {
           Get out there & discover your next slope, mountain & destination!
         </p>
         <small className={styles.copyright}>
-          Copyright 2019 MNTN, Inc. Terms & Privacy
+          Copyright 2025 MNTN, Inc. Terms & Privacy
         </small>
       </div>
 

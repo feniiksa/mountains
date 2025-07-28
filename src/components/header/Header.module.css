@@ -1,5 +1,5 @@
 .header {
-  color: #ffff;
+  color: var(--color-primary);
   display: flex;
   align-items: center;
   flex-direction: row;

@@ -14,7 +14,7 @@
   margin-bottom: 200px;
 }
 .left {
-  color: #ffff;
+  color: var(--color-primary);
   position: relative;
 }
 
@@ -30,14 +30,14 @@
 } */
 
 .small {
-  color: #fbd784;
+  color: var(--color-span);
   font-size: 22px;
   margin-bottom: 20px;
 
   &::before {
     content: "";
     width: 75px;
-    border-bottom: 2px solid #fbd784;
+    border-bottom: 2px solid var(--color-span);
     display: inline-block;
     vertical-align: middle;
     margin-right: 15px;
@@ -56,7 +56,7 @@
 
 .button {
   font-size: 17px;
-  color: #fbd784;
+  color: var(--color-span);
   background: none;
 
   display: flex;
